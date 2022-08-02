@@ -14,6 +14,5 @@ This project aims at  locating  nearby restaurants in cities , making customers 
 <img width="960" alt="2022-08-02 (7)" src="https://user-images.githubusercontent.com/63541879/182433142-6f42df49-0c57-4074-972f-6f18a0764735.png">
 <img width="960" alt="2022-08-02 (9)" src="https://user-images.githubusercontent.com/63541879/182433165-f3969cdc-12f6-4b0c-a76e-4bc5cb15805d.png">
 <img width="960" alt="2022-08-02 (10)" src="https://user-images.githubusercontent.com/63541879/182433181-8e697918-09e3-46a8-84a7-47c24722a587.png">
-dd8-4b7f-bd2b-db78e0bd1c8c.png">
-#website link
+website link:-
 https://jolly-desert-0cc7bb510.1.azurestaticapps.net/
