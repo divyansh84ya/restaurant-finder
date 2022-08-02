@@ -10,8 +10,5 @@ This project aims at  locating  nearby restaurants in cities , making customers 
 <img width="960" alt="2022-08-02 (6)" src="https://user-images.githubusercontent.com/63541879/182428821-55fb9025-4b17-4018-98fd-036bae541c2c.png">
 <img width="960" alt="2022-08-02 (5)" src="https://user-images.githubusercontent.com/63541879/182428847-79e49835-a6f0-4ed3-92c8-fa070d11046f.png">
 <img width="960" alt="2022-08-02 (4)" src="https://user-images.githubusercontent.com/63541879/182428876-5599a121-7135-4e8c-9ee2-a412cce70ad5.png">
-<img width="960" alt="2022-06-08" src="https://user-images.githubusercontent.com/63541879/182428912-e442b580-dfdd-440d-b012-57ebf4d2d93f.png">
 <img width="960" alt="2022-08-02 (2)" src="https://user-images.githubusercontent.com/63541879/182428951-511954aa-a5b7-4939-97ee-a503c68667e4.png">
 <img width="960" alt="2022-08-02 (1)" src="https://user-images.githubusercontent.com/63541879/182428971-495584a7-adcc-4a4a-b1ee-05e8b9764e64.png">
-<img width="960" alt="2022-06-09" src="https://user-images.githubusercontent.com/63541879/182428986-e51817c8-6ae4-47be-a056-28e792d5c375.png">
-<img width="960" alt="2022-06-09 (1)" src="https://user-images.githubusercontent.com/63541879/182429014-27a51755-5630-4d25-978c-9be7ba5024fc.png">
