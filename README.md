@@ -11,7 +11,7 @@ This project aims at  locating  nearby restaurants in cities , making customers 
 <img width="960" alt="2022-08-02 (2)" src="https://user-images.githubusercontent.com/63541879/182428951-511954aa-a5b7-4939-97ee-a503c68667e4.png">
 Menu card
 <img width="960" alt="2022-08-02 (3)" src="https://user-images.githubusercontent.com/63541879/182432396-3f0a30fe-323f-4f19-8d31-bf4f9f2dc4c7.png">
-# Login details and booking table
+ Login details and booking table
 <img width="960" alt="2022-08-02 (4)" src="https://user-images.githubusercontent.com/63541879/182428876-5599a121-7135-4e8c-9ee2-a412cce70ad5.png">
 <img width="960" alt="2022-08-02 (6)" src="https://user-images.githubusercontent.com/63541879/182428821-55fb9025-4b17-4018-98fd-036bae541c2c.png">
 <img width="960" alt="2022-08-02 (7)" src="https://user-images.githubusercontent.com/63541879/182433142-6f42df49-0c57-4074-972f-6f18a0764735.png">
